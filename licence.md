@@ -1,4 +1,4 @@
-[text](licence.md)MIT License
+MIT License
 
 Copyright (c) [2024] [chess]
 
